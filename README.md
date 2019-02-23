@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # employerReadyPortfolio
 Title: Employer Ready Porfolio is a polished portfolio ready to use a presentation material during a job interview. It uses bootstrap so it is mobile friendly.
 
