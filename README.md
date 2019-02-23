@@ -1,23 +1,17 @@
 
-# employerReadyPortfolio
-Title: Employer Ready Porfolio is a polished portfolio ready to use a presentation material during a job interview. It uses bootstrap so it is mobile friendly.
+## Title: 
+Employer Ready Porfolio is a polished portfolio ready to use a presentation material during a job interview. It uses bootstrap so it is mobile friendly.
 
-Motivation: To showcase important and presentable NU coding bootcamp web projects, especially showing a back end technology project.
-
-Technology used: HMTL/CSS, Bootstrap, Javascript and JQuery
-
-How to use: Easy to use very straightforward navigation that includes, About, Resume, Portfolio, and Contact web pages.
-
-Future development: The Contact web page will be deployed using php in order to send a message. 
-=======
-
-# Title:
-Employer Ready Porfolio is a polished portfolio ready to use a presentation material during a job interview. HTML5, CSS and bootstrap are used to create the portfolio. It is a mobile friendly website.
-
-# Motivation: 
+## Motivation: 
 To showcase important and presentable NU coding bootcamp web projects, especially showing a back end technology project.
 
 PLease view my portfolio: https://restimirandanu.github.io/employerReadyPortfolio/index.html#home
+
+## Technology used: 
+HMTL/CSS, Bootstrap, Javascript and JQuery
+
+## How to use:
+Easy to use very straightforward navigation that includes, About, Resume, Portfolio, and Contact web pages.
 
 # Screen Shots
 
@@ -43,16 +37,10 @@ PLease view my portfolio: https://restimirandanu.github.io/employerReadyPortfoli
 <img width="1680" alt="screen shot 2019-02-23 at 1 28 42 pm" src="https://user-images.githubusercontent.com/43328718/53290852-b7705280-376f-11e9-8608-6d60ea59aded.png">
 
 
-# Technology used: 
-HMTL/CSS, Bootstrap, Javascript and JQuery
-
-# How to use: 
-Easy to use very straightforward navigation that includes, About, Resume, Portfolio, and Contact web pages.
-
 # Future development: 
 The Contact web page will be deployed using php in order for users to send a message. Important work projects will be added in the future.
 
 # Author:
 Resti Miranda - 
 NU Coding Bootcamp 2018-2019
->>>>>>> bee08f4b8b349342b9a788a6b3320e8a76d2cc49
+
