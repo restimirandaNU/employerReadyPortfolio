@@ -39,3 +39,6 @@ Easy to use very straightforward navigation that includes, About, Resume, Portfo
 
 # Future development: 
 The Contact web page will be deployed using php in order to send a message. Include important work related projects.
+
+#Author:
+Resti Miranda
