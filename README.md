@@ -38,8 +38,8 @@ HMTL/CSS, Bootstrap, Javascript and JQuery
 Easy to use very straightforward navigation that includes, About, Resume, Portfolio, and Contact web pages.
 
 # Future development: 
-The Contact web page will be deployed using php in order to send a message. Include important work related projects.
+The Contact web page will be deployed using php in order for users to send a message. Important work projects will be added in the future.
 
 # Author:
-Resti Miranda
+Resti Miranda - 
 NU Coding Bootcamp 2018-2019
