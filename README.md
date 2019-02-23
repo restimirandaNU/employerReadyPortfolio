@@ -41,6 +41,6 @@ Easy to use very straightforward navigation that includes, About, Resume, Portfo
 The Contact web page will be deployed using php in order for users to send a message. Important work projects will be added in the future.
 
 # Author:
-Resti Miranda - 
+Resti Miranda:
 NU Coding Bootcamp 2018-2019
 
