@@ -1,6 +1,6 @@
 
 ## Title: 
-Employer Ready Porfolio is a polished portfolio ready to use a presentation material during a job interview. It uses bootstrap so it is mobile friendly.
+Employer Ready Porfolio is a polished portfolio ready to use a presentation material during a job interview. It uses bootstrap, so it is mobile friendly.
 
 ## Motivation: 
 To showcase important and presentable NU coding bootcamp web projects, especially showing a back end technology project.
